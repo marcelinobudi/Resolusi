@@ -1,4 +1,4 @@
-resolusi di tahun 2020:
+resolusi di tahun 2020 & 2021:
 - belajar socket programming python
 - belajar c++
 - belajar git & github
