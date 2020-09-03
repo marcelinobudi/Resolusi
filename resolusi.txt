@@ -1,4 +1,5 @@
 resolusi di tahun 2020:
 - belajar socket programming python
 - belajar c++
+- belajar git & github
 - membuat game dengan python
