@@ -1,0 +1,4 @@
+resolusi di tahun 2020:
+- belajar socket programming python
+- belajar c++
+- membuat game dengan python
